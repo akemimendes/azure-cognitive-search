@@ -20,7 +20,7 @@ A crescente quantidade de informações digitais exige métodos mais eficientes 
 
     Enriquecimento com metadados
 
-    Ferramentas comuns: Azure AI Document Intelligence, Azure Blob Storage, Python com OCR
+    Ferramentas comuns: Azure AI Document Intelligence, Azure Blob Storage, Python com OCR    
 
 🔹 2. Criação de Índices Inteligentes
 
