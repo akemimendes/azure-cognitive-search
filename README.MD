@@ -2,7 +2,7 @@
 
 🧩 Contexto
 
-    A crescente quantidade de informações digitais exige métodos mais eficientes para estruturar, localizar e analisar conteúdo. Ferramentas de IA oferecem recursos avançados para ler, entender, indexar e responder perguntas com base em documentos complexos, como relatórios, PDFs, artigos técnicos, e-mails, entre outros.
+A crescente quantidade de informações digitais exige métodos mais eficientes para estruturar, localizar e analisar conteúdo. Ferramentas de IA oferecem recursos avançados para ler, entender, indexar e responder perguntas com base em documentos complexos, como relatórios, PDFs, artigos técnicos, e-mails, entre outros.
 
 
 
